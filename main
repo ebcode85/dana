@@ -24,7 +24,7 @@
   <div id="screenA">
     <img src="screenA.jpeg" alt="Screen A">
   </div>
-  <div id="DanaIDBack">
+  <div id="screenB">
     <img src="screenB.jpeg" alt="Screen B">
   </div>
 
