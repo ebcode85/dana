@@ -21,11 +21,11 @@
   </style>
 </head>
 <body>
-  <div id="danaTowersF">
-    <img src="danaTowersF.jpeg" alt="Screen A">
+  <div id="screenA">
+    <img src="screenA.jpeg" alt="Screen A">
   </div>
   <div id="DanaIDBack">
-    <img src="DanaIDBack.jpeg" alt="Screen B">
+    <img src="screenB.jpeg" alt="Screen B">
   </div>
 
   <script>
