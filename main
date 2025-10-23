@@ -22,10 +22,10 @@
 </head>
 <body>
   <div id="screenA">
-    <img src="screenA.jpeg" alt="Screen A">
+    <img src="danaTowersF.jpeg" alt="Screen A">
   </div>
   <div id="screenB">
-    <img src="screenB.jpeg" alt="Screen B">
+    <img src="DanaIDBack.jpeg" alt="Screen B">
   </div>
 
   <script>
